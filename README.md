@@ -30,6 +30,7 @@ ARCHITECTURAL DESIGNER ARSENE CONSTRUCTION, LLC - SUMMER 2013 – SUMMER 2014
 + Communicates with clients, local businesses and fellow colleagues. Staging homes for the market.
 
 ~~Scratch this.~~
+*****
 
 
 
