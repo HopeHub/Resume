@@ -1,4 +1,5 @@
 # Hope Luquette
+*****
 8127 149th PL NE, Redmond WA 98052 | [hopeluquette@gmail.com](mailto:hopeluquette@gmail.com) | 206.718.7099
 *****
 Hello. My name is Hope Luquette and I’d like to introduce myself. I am seeking an opportunity with a team of creative professionals where I can build a career and bring my unique skillset to bear. In addition to my architectural education, my experience as a volunteer has provided me with excellent background in the teamwork aspects of design.
@@ -31,6 +32,6 @@ ARCHITECTURAL DESIGNER ARSENE CONSTRUCTION, LLC - SUMMER 2013 – SUMMER 2014
 + 
 ~~Scratch this.~~
 
--> hi <-
+_> hi <_
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
