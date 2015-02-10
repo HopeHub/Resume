@@ -7,14 +7,16 @@ My approach to any job is with an attitude of curiosity and open-mindedness. I h
 
 Smiles!
 
-### Experience
-+ DDG Architects
+### Objective
++ Build a career as part of a dynamic interdisciplinary team of design professionals. Strive for improvement and become the best that I can be.
 
-### Education 
-+ University of Washington
-+ Louisiana State University
+### SKILLS & ABILITIES 
++ Basic Maya, Rhino, AutoCAD, Photoshop, InDesign, Vectorworks (BIM Modeling), Basic Revit, Sketch-up, Furniture Design and Fabrication, 3D models, Rendering, Photography, Sketching and Model making.
 
-### Things I
+### EXPERIENCE
+LANDSCAPE DESIGNER EXTERIORSCAPES, LLC
+SUMMER 2014- PRESENT
+Designing and creating natural environments through the production of 2D/3D modeling and drafting, renderings, photography, construction drawings, project managing and code research. Using Sketch-up, Photoshop, Vectorworks, and Microsoft Office. Enhancing the look and feel of a client’s experience through sight, smell and touch.
 ~~Scratch this.~~
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
