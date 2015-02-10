@@ -6,4 +6,5 @@
 ### Education 
 + University of Washington
 + Louisiana State University
+
 | hi |
