@@ -3,6 +3,7 @@
 ### Experience
 + DDG Architects
 
-### H3 Education 
+### Education 
 + University of Washington
 + Louisiana State University
+| hi |
