@@ -9,7 +9,6 @@ Smiles!
 *****
 ### Objective
 + Build a career as part of a dynamic interdisciplinary team of design professionals. Strive for improvement and become the best that I can be.
-*****
 ### SKILLS & ABILITIES 
 + Basic Maya, Rhino, AutoCAD, Photoshop, InDesign, Vectorworks (BIM Modeling), Basic Revit, Sketch-up, Furniture Design and Fabrication, 3D models, Rendering, Photography, Sketching and Model making.
 *****
