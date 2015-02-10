@@ -8,4 +8,4 @@
 + Louisiana State University
 
 ### Things I
-like
+~~Scratch this.~~
