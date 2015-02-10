@@ -23,6 +23,12 @@ FURNITURE DESIGNER CREOWORKS - SUMMER 2014
 + Freelance furniture designer, designing custom pieces of furniture for clients. 
 + Collaborating with fabricators, designers and clients. 
 + Produce drawings using Sketch-up and Photoshop.
+
+ARCHITECTURAL DESIGNER ARSENE CONSTRUCTION, LLC - SUMMER 2013 – SUMMER 2014
++ Designing flips, remodels and contemporary homes through the production of renderings, photography, construction drawings, project managing and code research. 
++ Using AutoCAD, Photoshop, Sketch-up, and Microsoft Office. Also, assisting in the selection of cabinet/bathroom finishes, furniture and lighting. 
++ Communicates with clients, local businesses and fellow colleagues. Staging homes for the market.
++ 
 ~~Scratch this.~~
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
