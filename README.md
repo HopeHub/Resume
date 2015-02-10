@@ -18,6 +18,11 @@ LANDSCAPE DESIGNER EXTERIORSCAPES, LLC - SUMMER 2014- PRESENT
 + Designing and creating natural environments through the production of 2D/3D modeling and drafting, renderings, photography, construction drawings, project managing and code research. 
 + Using Sketch-up, Photoshop, Vectorworks, and Microsoft Office. 
 + Enhancing the look and feel of a client’s experience through sight, smell and touch.
+
+FURNITURE DESIGNER CREOWORKS - SUMMER 2014
++ Freelance furniture designer, designing custom pieces of furniture for clients. 
++ Collaborating with fabricators, designers and clients. 
++ Produce drawings using Sketch-up and Photoshop.
 ~~Scratch this.~~
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
