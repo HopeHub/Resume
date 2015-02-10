@@ -1,6 +1,6 @@
 # Hope Luquette
 8127 149th PL NE, Redmond WA 98052 | [hopeluquette@gmail.com](mailto:hopeluquette@gmail.com) | 206.718.7099
-
+*****
 Hello. My name is Hope Luquette and I’d like to introduce myself. I am seeking an opportunity with a team of creative professionals where I can build a career and bring my unique skillset to bear. In addition to my architectural education, my experience as a volunteer has provided me with excellent background in the teamwork aspects of design.
 Since graduating I have residential, furniture and landscape design experience, my goal is to learn, contribute, and begin building a career as an Industrial Designer, contributing to the production and design phases. I am especially interested in helping a company whose interests is in building upon contemporary, innovative and sustainable practices.
 My approach to any job is with an attitude of curiosity and open-mindedness. I have a strong work ethic and constantly strive to improve my skills. I am eager to further my development and to bring my skills and full range of experience as part of a dynamic interdisciplinary team of design professionals. I appreciate your consideration and would welcome a conversation about how I might be a fit for your team. Thank You.
