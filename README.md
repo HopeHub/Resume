@@ -4,6 +4,6 @@
 + DDG Architects
 +
 +------
-+### Education
++### Education <span style="color:red">red</span>, violets are <span style="color:blue">blue</span>
 + University of Washington
 + Louisiana State University
