@@ -27,7 +27,7 @@ FURNITURE DESIGNER CREOWORKS - SUMMER 2014
 + Collaborating with fabricators, designers and clients. 
 + Produce drawings using Sketch-up and Photoshop.
 
-ARCHITECTURAL DESIGNER ARSENE CONSTRUCTION, LLC - SUMMER 2013 – SUMMER 2014
+ARCHITECTURAL DESIGNER ARSENE CONSTRUCTION, LLC - SUMMER 2013 – SUMMER 20145
 + Designing flips, remodels and contemporary homes through the production of renderings, photography, construction drawings, project managing and code research. 
 + Using AutoCAD, Photoshop, Sketch-up, and Microsoft Office. Also, assisting in the selection of cabinet/bathroom finishes, furniture and lighting. 
 + Communicates with clients, local businesses and fellow colleagues. Staging homes for the market.
