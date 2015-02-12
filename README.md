@@ -1,6 +1,6 @@
 # Hope Luquette
 
-### Profile ![alt text]([URL=http://s1298.photobucket.com/user/hopiebucket/media/female-generic-profile_zps9b99dcad.png.html][IMG]http://i1298.photobucket.com/albums/ag51/hopiebucket/female-generic-profile_zps9b99dcad.png[/IMG][/URL] "Logo Title Text 1")
+### Profile ![alt text](http://s1298.photobucket.com/user/hopiebucket/media/female-generic-profile_zps9b99dcad.png.html?sort=3&o=0 "Logo Title Text 1")
 + Name: Hope Luquette
 + Address: 8127 149th PL NE, Redmond WA 98052
 + E-mail: [hopeluquette@gmail.com](mailto:hopeluquette@gmail.com)
