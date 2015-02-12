@@ -5,11 +5,9 @@
 + Address: 8127 149th PL NE, Redmond WA 98052
 + E-mail: [hopeluquette@gmail.com](mailto:hopeluquette@gmail.com)
 + Phone #: 206.718.7099
-### Objective
-+ Build a career as part of a dynamic interdisciplinary team of design professionals. Strive for improvement and become the best that I can be.
 
-### SKILLS & ABILITIES 
-+ Basic Maya, Rhino, AutoCAD, Photoshop, InDesign, Vectorworks (BIM Modeling), Basic Revit, Sketch-up, Furniture Design and Fabrication, 3D models, Rendering, Photography, Sketching and Model making.
+### Education
++ Build a career as part of a dynamic interdisciplinary team of design professionals. Strive for improvement and become the best that I can be.
 
 ### EXPERIENCE
 LANDSCAPE DESIGNER EXTERIORSCAPES, LLC - SUMMER 2014- PRESENT
@@ -26,6 +24,9 @@ ARCHITECTURAL DESIGNER ARSENE CONSTRUCTION, LLC - SUMMER 2013 – SUMMER 2014
 + Designing flips, remodels and contemporary homes through the production of renderings, photography, construction drawings, project managing and code research. 
 + Using AutoCAD, Photoshop, Sketch-up, and Microsoft Office. Also, assisting in the selection of cabinet/bathroom finishes, furniture and lighting. 
 + Communicates with clients, local businesses and fellow colleagues. Staging homes for the market.
+
+### SKILLS & ABILITIES 
++ Basic Maya, Rhino, AutoCAD, Photoshop, InDesign, Vectorworks (BIM Modeling), Basic Revit, Sketch-up, Furniture Design and Fabrication, 3D models, Rendering, Photography, Sketching and Model making.
 
 ~~Scratch this.~~
 *****
