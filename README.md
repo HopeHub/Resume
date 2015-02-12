@@ -6,14 +6,18 @@
 + E-mail: [hopeluquette@gmail.com](mailto:hopeluquette@gmail.com)
 + Phone #: 206.718.7099
 + Zodiac Sign: Virgo
++ Favorite Movie: Wreck It Walph
 
 *****
 ### Education ![alt text](https://lh6.googleusercontent.com/OYgdFrx7ZymKDcA9oVo4Q5SOpcOSUOMet3_iZEY8wQBQ5sXa67YJoAHGo009CgiDT8XHB0xUlMrW9uphH3wlB6WdQWP_q37aLlObRlInDDpCNXqJlgw "Logo Title Text 1")
-+ Build a career as part of a dynamic interdisciplinary team of design professionals. Strive for improvement and become the best that I can be.
++ University of Washington
++ Louisiana State University
 
 *****
 ### EXPERIENCE ![alt text](http://www.icon100.com/up/3854/256/113-Briefcase-in-a-circle.png "Logo Title Text 1")
-LANDSCAPE DESIGNER EXTERIORSCAPES, LLC - SUMMER 2014- PRESENT
+DDG Architects - Winter 2014 - Present
+
+LANDSCAPE DESIGNER EXTERIORSCAPES, LLC - SUMMER 2014- Winter 2014
 + Designing and creating natural environments through the production of 2D/3D modeling and drafting, renderings, photography, construction drawings, project managing and code research. 
 + Using Sketch-up, Photoshop, Vectorworks, and Microsoft Office. 
 + Enhancing the look and feel of a client’s experience through sight, smell and touch.
