@@ -1,14 +1,15 @@
-# Resume
-*****
+# HopeLuquette
+
 ### Profile ![alt text](http://www.peelpoints.com/Images/female-generic-profile.png "Logo Title Text 1")
 + Name: Hope Luquette
 + Address: 8127 149th PL NE, Redmond WA 98052
 + E-mail: [hopeluquette@gmail.com](mailto:hopeluquette@gmail.com)
 + Phone #: 206.718.7099
+**
 
 ### Education
 + Build a career as part of a dynamic interdisciplinary team of design professionals. Strive for improvement and become the best that I can be.
-
+*****
 ### EXPERIENCE
 LANDSCAPE DESIGNER EXTERIORSCAPES, LLC - SUMMER 2014- PRESENT
 + Designing and creating natural environments through the production of 2D/3D modeling and drafting, renderings, photography, construction drawings, project managing and code research. 
