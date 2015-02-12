@@ -12,7 +12,7 @@
 + Build a career as part of a dynamic interdisciplinary team of design professionals. Strive for improvement and become the best that I can be.
 
 *****
-### EXPERIENCE
+### EXPERIENCE ![alt text](http://www.icon100.com/up/3854/256/113-Briefcase-in-a-circle.png "Logo Title Text 1")
 LANDSCAPE DESIGNER EXTERIORSCAPES, LLC - SUMMER 2014- PRESENT
 + Designing and creating natural environments through the production of 2D/3D modeling and drafting, renderings, photography, construction drawings, project managing and code research. 
 + Using Sketch-up, Photoshop, Vectorworks, and Microsoft Office. 
