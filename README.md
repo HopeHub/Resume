@@ -7,6 +7,7 @@ My approach to any job is with an attitude of curiosity and open-mindedness. I h
 
 Smiles!
 *****
+![alt text](http://www.peelpoints.com/Images/female-generic-profile.png "Logo Title Text 1")
 ### Profile
 + Name: Hope Luquette
 + Address: 98374ihdfgh
