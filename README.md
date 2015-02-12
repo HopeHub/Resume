@@ -7,6 +7,9 @@ My approach to any job is with an attitude of curiosity and open-mindedness. I h
 
 Smiles!
 *****
+### Profile
++ Name: Hope Luquette
++ Address: 98374ihdfgh
 ### Objective
 + Build a career as part of a dynamic interdisciplinary team of design professionals. Strive for improvement and become the best that I can be.
 
