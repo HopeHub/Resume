@@ -8,7 +8,7 @@
 + Zodiac Sign: Virgo
 
 *****
-### Education
+### Education ![alt text](https://lh6.googleusercontent.com/OYgdFrx7ZymKDcA9oVo4Q5SOpcOSUOMet3_iZEY8wQBQ5sXa67YJoAHGo009CgiDT8XHB0xUlMrW9uphH3wlB6WdQWP_q37aLlObRlInDDpCNXqJlgw "Logo Title Text 1")
 + Build a career as part of a dynamic interdisciplinary team of design professionals. Strive for improvement and become the best that I can be.
 
 *****
