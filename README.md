@@ -1,10 +1,11 @@
-# HopeLuquette
+# Hope Luquette
 
 ### Profile ![alt text](http://www.peelpoints.com/Images/female-generic-profile.png "Logo Title Text 1")
 + Name: Hope Luquette
 + Address: 8127 149th PL NE, Redmond WA 98052
 + E-mail: [hopeluquette@gmail.com](mailto:hopeluquette@gmail.com)
 + Phone #: 206.718.7099
++ Zodiac Sign: Virgo
 
 *****
 ### Education
