@@ -46,18 +46,13 @@
 
 <table width="100%" cellpadding="0" cellspacing="10" border="0">
     <tr>
-        <td width="50%" valign="top">
-        <img src="http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz" alt="Mountain View" style="width:300px;height:300px">
-            <p>Columns in text are a very handy tool.
-            Unfortunately, most designers don't use
-            them because they're tedious to 
-            implement.</p>
+        <td width="40%" valign="top">
+            <p>Creative Thinking</p>
         </td>
-        <td width="50%" valign="top">
-            <p>However, if you take the time and effort
-            of putting them into use, you'll find 
-            that they really add to the aesthetics 
-            and functionality of your work.</p>
+        <td width="60%" valign="top">
+            <img src="http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz" alt="Mountain View" style="width:300px;height:300px">
+            <img src="http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz" alt="Mountain View" style="width:300px;height:300px">
+            <img src="http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz" alt="Mountain View" style="width:300px;height:300px">
         </td>
     </tr>
 </table>
