@@ -9,7 +9,7 @@
 + Zodiac Sign: Virgo
 + Favorite Movie: Wreck It Walph & How to Train Your Dragon
 + Hobbies: Indoor Climbing, Wood Crafting, Rendering
-+ Portfolio: [http://hopeluquette.wix.com/portfolio]
++ Portfolio: http://hopeluquette.wix.com/portfolio
 
 *****
 ![alt text](http://static.wixstatic.com/media/2a0811_27bd95612ea347a2ba68707ac09f65b3.png_srz_120_120_75_22_0.50_1.20_0.00_png_srz "Logo Title Text 1")
