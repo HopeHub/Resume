@@ -1,6 +1,6 @@
 # Hope Luquette
 
-![alt text](http://static.wixstatic.com/media/2a0811_dbab6aabca8043c3ad786e225dda6c09.png_srz_58_58_75_22_0.50_1.20_0.00_png_srz "Logo Title Text 1")
+![alt text](http://static.wixstatic.com/media/2a0811_f7d5e748568c474cbddb08c0ff77a3d0.png_srz_72_72_75_22_0.50_1.20_0.00_png_srz "Logo Title Text 1")
 ## Profile
 + Name: Hope Luquette
 + Address: 8127 149th PL NE, Redmond WA 98052
