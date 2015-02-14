@@ -11,7 +11,7 @@
 
 *****
 ![alt text](http://static.wixstatic.com/media/2a0811_27bd95612ea347a2ba68707ac09f65b3.png_srz_120_120_75_22_0.50_1.20_0.00_png_srz "Logo Title Text 1")
-### Education
+### EDUCATION
 **University of Washington** Seattle, WA - 4 years
 + Bachelors of Arts in Architecture
 + Focused on Design Computing, Sustainable Design and Furniture Design & Fabrication.
@@ -138,6 +138,18 @@
             <img src="http://static.wixstatic.com/media/2a0811_975eedfa25744e9aa38260e025e56797.png_srz_p_14_14_75_22_0.50_1.20_0.00_png_srz">
             <img src="http://static.wixstatic.com/media/2a0811_975eedfa25744e9aa38260e025e56797.png_srz_p_14_14_75_22_0.50_1.20_0.00_png_srz">
             <img src="http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz">
+            <img src="http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz">
+        </td>
+    </tr>
+    <tr>
+        <td width="50%" valign="center">
+            Vectorworks
+        </td>
+        <td width="50%" valign="top">
+            <img src="http://static.wixstatic.com/media/2a0811_975eedfa25744e9aa38260e025e56797.png_srz_p_14_14_75_22_0.50_1.20_0.00_png_srz">
+            <img src="http://static.wixstatic.com/media/2a0811_975eedfa25744e9aa38260e025e56797.png_srz_p_14_14_75_22_0.50_1.20_0.00_png_srz">
+            <img src="http://static.wixstatic.com/media/2a0811_975eedfa25744e9aa38260e025e56797.png_srz_p_14_14_75_22_0.50_1.20_0.00_png_srz">
+            <img src="http://static.wixstatic.com/media/2a0811_975eedfa25744e9aa38260e025e56797.png_srz_p_14_14_75_22_0.50_1.20_0.00_png_srz">
             <img src="http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz">
         </td>
     </tr>
