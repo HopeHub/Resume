@@ -15,6 +15,7 @@
 **University of Washington** Seattle, WA - 4 years
 + Bachelors of Arts in Architecture
 + Focused on Design Computing, Sustainable Design and Furniture Design & Fabrication.
+
 **Louisiana State University** Baton Rouge, LA - 3 years
 + Studied Architecture History, Design Drawing and Accounting. 
 
