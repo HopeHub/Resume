@@ -38,7 +38,7 @@ ARCHITECTURAL DESIGNER ARSENE CONSTRUCTION, LLC - SUMMER 2013 – SUMMER 20145
 *****
 ![alt text](http://static.wixstatic.com/media/2a0811_ef61f8a608ab4d31a11b98ccd893ebcd.png_srz_108_108_75_22_0.50_1.20_0.00_png_srz "Logo Title Text 1")
 ### SKILLS & ABILITIES
-+ Basic Maya ![alt text](http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz "Logo Title Text 1") ![alt text](http://static.wixstatic.com/media/2a0811_35c9372c60914cc7bf8424bab58c7ad3.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz "Logo Title Text 1")
++ Basic Maya ![alt text](http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz "Logo Title Text 1") ![alt text](http://static.wixstatic.com/media/2a0811_975eedfa25744e9aa38260e025e56797.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz "Logo Title Text 1")
 + Rhino
 + AutoCAD, Photoshop, InDesign, Vectorworks (BIM Modeling), Basic Revit, Sketch-up, Furniture Design and Fabrication, 3D models, Rendering, Photography, Sketching and Model making.
 
