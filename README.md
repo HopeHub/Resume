@@ -43,6 +43,25 @@
 *****
 ![alt text](http://static.wixstatic.com/media/2a0811_ef61f8a608ab4d31a11b98ccd893ebcd.png_srz_108_108_75_22_0.50_1.20_0.00_png_srz "Logo Title Text 1")
 ### SKILLS & ABILITIES
+
+<table width="100%" cellpadding="0" cellspacing="10" border="0">
+    <tr>
+        <td width="50%" valign="top">
+        <img src="http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz" alt="Mountain View" style="width:300px;height:300px">
+            <p>Columns in text are a very handy tool.
+            Unfortunately, most designers don't use
+            them because they're tedious to 
+            implement.</p>
+        </td>
+        <td width="50%" valign="top">
+            <p>However, if you take the time and effort
+            of putting them into use, you'll find 
+            that they really add to the aesthetics 
+            and functionality of your work.</p>
+        </td>
+    </tr>
+</table>
+
 + Creative Thinking
 + Revit ![alt text](http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz "Logo Title Text 1") ![alt text](http://static.wixstatic.com/media/2a0811_975eedfa25744e9aa38260e025e56797.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz "Logo Title Text 1")
 + ![alt text](http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz "Logo Title Text 1") ![alt text](http://static.wixstatic.com/media/2a0811_975eedfa25744e9aa38260e025e56797.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz "Logo Title Text 1")     AutoCAD
