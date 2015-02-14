@@ -44,7 +44,7 @@
 ![alt text](http://static.wixstatic.com/media/2a0811_ef61f8a608ab4d31a11b98ccd893ebcd.png_srz_108_108_75_22_0.50_1.20_0.00_png_srz "Logo Title Text 1")
 ### SKILLS & ABILITIES
 
-<table>
+<table border="false">
     <tr>
         <td width="50%" valign="center">
             Creative Thinking
@@ -59,7 +59,7 @@
     </tr>
     <tr>
         <td width="50%" valign="center">
-            <p>Revit</p>
+            Revit
         </td>
         <td width="50%" valign="top">
             <img src="http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz">
@@ -71,7 +71,7 @@
     </tr>
     <tr>
         <td width="50%" valign="center">
-            <p>AutoCAD</p>
+            AutoCAD
         </td>
         <td width="50%" valign="top">
             <img src="http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz">
@@ -83,7 +83,7 @@
     </tr>
     <tr>
         <td width="50%" valign="center">
-            <p>Photoshop</p>
+            Photoshop
         </td>
         <td width="50%" valign="top">
             <img src="http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz">
@@ -95,7 +95,7 @@
     </tr>
     <tr>
         <td width="50%" valign="center">
-            <p>Sketch-Up</p>
+            Sketch-Up
         </td>
         <td width="50%" valign="top">
             <img src="http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz">
@@ -107,7 +107,7 @@
     </tr>
     <tr>
         <td width="50%" valign="center">
-            <p>Fabrication</p>
+            Fabrication
         </td>
         <td width="50%" valign="top">
             <img src="http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz">
@@ -119,7 +119,7 @@
     </tr>
     <tr>
         <td width="50%" valign="center">
-            <p>Drawing/Sketching</p>
+            Drawing/Sketching
         </td>
         <td width="50%" valign="top">
             <img src="http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz">
@@ -130,13 +130,5 @@
         </td>
     </tr>
 </table>
-
-+ Creative Thinking
-+ Revit ![alt text](http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz "Logo Title Text 1") ![alt text](http://static.wixstatic.com/media/2a0811_975eedfa25744e9aa38260e025e56797.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz "Logo Title Text 1")
-+ ![alt text](http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz "Logo Title Text 1") ![alt text](http://static.wixstatic.com/media/2a0811_975eedfa25744e9aa38260e025e56797.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz "Logo Title Text 1")     AutoCAD
-+ Photoshop
-+ Sketch-up
-+ Fabrication
-+ Sketching
 
 
