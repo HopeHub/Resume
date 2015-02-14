@@ -50,7 +50,7 @@
             <p>Creative Thinking</p>
         </td>
         <td width="50%" valign="top">
-            <img src="http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz" alt="Mountain View" style="width:300px;height:300px">
+            <img src="http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz"  style="width:300px;height:300px">
             <img src="http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz" alt="Mountain View" style="width:300px;height:300px">
             <img src="http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz" alt="Mountain View" style="width:300px;height:300px">
             <img src="http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz" alt="Mountain View" style="width:300px;height:300px">
