@@ -22,8 +22,6 @@
 *****
 ![alt text](http://static.wixstatic.com/media/2a0811_0960d83920a2443698f8cd39358a4f78.png_srz_115_115_75_22_0.50_1.20_0.00_png_srz "Logo Title Text 1")
 ### EXPERIENCE
-DDG Architects - Winter 2014 - Present
-
 **BIM MODELER** DDG ARCHITECTS - Fall 2014 - Current
 + Building Information Modeling. Planning, designing, constructing and managing buildings.
 + Producing design solutions through teamwork, research and planning.
