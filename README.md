@@ -10,7 +10,8 @@
 + Favorite Movie: Wreck It Walph
 
 *****
-### Education ![alt text](https://lh6.googleusercontent.com/OYgdFrx7ZymKDcA9oVo4Q5SOpcOSUOMet3_iZEY8wQBQ5sXa67YJoAHGo009CgiDT8XHB0xUlMrW9uphH3wlB6WdQWP_q37aLlObRlInDDpCNXqJlgw "Logo Title Text 1")
+![alt text](http://static.wixstatic.com/media/2a0811_27bd95612ea347a2ba68707ac09f65b3.png_srz_120_120_75_22_0.50_1.20_0.00_png_srz "Logo Title Text 1")
+### Education
 + University of Washington
 + Louisiana State University
 
