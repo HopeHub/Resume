@@ -44,7 +44,7 @@
 ![alt text](http://static.wixstatic.com/media/2a0811_ef61f8a608ab4d31a11b98ccd893ebcd.png_srz_108_108_75_22_0.50_1.20_0.00_png_srz "Logo Title Text 1")
 ### SKILLS & ABILITIES
 
-<table width="100%" cellpadding="0" cellspacing="10" >
+<table width="100%">
     <tr>
         <td width="50%" valign="top">
             <p>Creative Thinking</p>
