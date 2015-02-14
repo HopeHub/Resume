@@ -1,6 +1,6 @@
 # Hope Luquette
 
-### Profile ![alt text](http://hopeluquette.wix.com/portfolio#!architecture/zoom/c1hd9/image1bpl "Logo Title Text 1")
+### Profile ![alt text](http://static.wixstatic.com/media/2a0811_5ef7be3c25c344bd8981d5a13709f8a6.jpg_srz_640_427_75_22_0.50_1.20_0.00_jpg_srz "Logo Title Text 1")
 + Name: Hope Luquette
 + Address: 8127 149th PL NE, Redmond WA 98052
 + E-mail: [hopeluquette@gmail.com](mailto:hopeluquette@gmail.com)
