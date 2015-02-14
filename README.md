@@ -8,7 +8,7 @@
 + Phone #: 206.718.7099
 + Zodiac Sign: Virgo
 + Favorite Movie: Wreck It Walph & How to Train Your Dragon
-+ Hobbies: Indoor Climbing, Wood Crafting, Rendering
++ Hobbies: Indoor Climbing, Wood Crafting, Rendering & Tinkering
 + Portfolio: http://hopeluquette.wix.com/portfolio
 
 *****
