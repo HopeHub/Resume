@@ -44,12 +44,12 @@
 ![alt text](http://static.wixstatic.com/media/2a0811_ef61f8a608ab4d31a11b98ccd893ebcd.png_srz_108_108_75_22_0.50_1.20_0.00_png_srz "Logo Title Text 1")
 ### SKILLS & ABILITIES
 
-<table width="100%" cellpadding="0" cellspacing="10" border="0">
+<table width="100%" cellpadding="0" cellspacing="10" >
     <tr>
-        <td width="40%" valign="top">
+        <td width="50%" valign="top">
             <p>Creative Thinking</p>
         </td>
-        <td width="60%" valign="top">
+        <td width="50%" valign="top">
             <img src="http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz" alt="Mountain View" style="width:300px;height:300px">
             <img src="http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz" alt="Mountain View" style="width:300px;height:300px">
             <img src="http://static.wixstatic.com/media/2a0811_331a23e2e68b447f8429a63f56e6fb81.png_srz_14_14_75_22_0.50_1.20_0.00_png_srz" alt="Mountain View" style="width:300px;height:300px">
